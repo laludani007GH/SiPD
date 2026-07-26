@@ -26,4 +26,4 @@
 ---
 
 ## 💡 Tech Stack
-*(Tambahkan teknologi yang kamu gunakan di sini, contoh: Laravel / Node.js / Vue.js / MySQL)*
+*PHP | Laravel | Node.js | Vue.js | MySQL)*
